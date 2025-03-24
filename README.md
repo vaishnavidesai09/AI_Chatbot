@@ -24,7 +24,7 @@ Ensure you have Python installed (>=3.8). You also need `pip` for package manage
 ### Steps to Run
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-repo/chatbot.git
+   git clone https://github.com/vaishnavidesai09/AI_Chatbot.git
    cd chatbot
    ```
 
